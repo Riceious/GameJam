@@ -20,6 +20,15 @@ public class Projectile : MonoBehaviour
             // Ejemplo: collision.GetComponent<ShadowEnemy>().TakeDamage(damage);
         }
 
+
+
+
+
+
+
+
+
+
         // Efecto de impacto
         if (impactEffect != null)
         {
