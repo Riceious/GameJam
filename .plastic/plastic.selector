@@ -1,0 +1,3 @@
+repository "El viaje del Ekeko/El viaje del Ekeko@4674116559849@cloud"
+  path "/"
+    smartbranch "/main"
